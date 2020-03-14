@@ -1,12 +1,12 @@
 Ciao a tutti, facciamo un altro Twitter-torial sulle mappe!
-L'argomento di oggi è visualizzazione di dati aggregati. Si tratta per lo più di una critica su questa mappa, che probabilmente avrete visto circolare un bel po'. È una mappa che mostra dati importanti! Ma ho qualche problema con le tecniche utilizzate.
+L'argomento di oggi è visualizzazione di dati aggregati. Si tratta per lo più di una critica su [questa mappa](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), che probabilmente avrete visto circolare un bel po'. È una mappa che mostra dati importanti! Ma ho qualche problema con le tecniche utilizzate.
 
 https://twitter.com/user/status/1238556851643518981
 
 Conosciamo tutti le mappe che visualizzano dati aggregati. La più nota tra tutte probabilmente è la mappa coropletica: una mappa che mostra aree geografiche riempite con un colore o un motivo per rappresentare informazioni relative a queste aree.
 Un esempio e’ questa elettorale della BBC:
 
-[immagine 1]
+![](imgs/coropleta.jpg)
 
 https://twitter.com/user/status/1238556851643518981
 
@@ -17,7 +17,7 @@ https://twitter.com/user/status/1238559830828253186
 Esistono due modi comuni di visualizzare dati aggregati: una mappa a distribuzione di punti e una mappa a simbolo graduato. Le mappe a distribuzione usano un punto per rappresentare un numero di cose che si vogliono mappare, e raggruppano i punti in un’area geografica.
 Ecco un esempio di Bill Rankin (2009):
 
-[immagine 2]
+![](imgs/dotDensity.jpg)
 
 https://twitter.com/user/status/1238560988619816963
 
@@ -27,13 +27,13 @@ https://twitter.com/user/status/1238561449351557122
 
 Esistono poi anche mappe a simbolo graduato (anche note come mappe a simboli proporzionali). Queste mappe usano un simbolo (comunemente un cerchio) per rappresentare un’area geografica, e la dimensione e/o il colore del simbolo ha una qualche relazione con una dimensione dei dati che si vogliono visualizzare. Un esempio: la mappa della diffusione del coronavirus sviluppata dall'istituto Johns Hopkins.
 
-[immagine 3]
+![](imgs/graduatedSymbol.jpg)
 
 https://twitter.com/user/status/1238562354239078401
 
 Nel caso specifico di questa mappa, ciascun punto rappresenta uno stato/provincia o Paese (dipende dalla regione geografica, in US si parla di stati), e il raggio del cerchio di ogni punto ci dice quanti casi di coronavirus sono stati confermati in quell’area geografica. (Da notare che la scala non e’ lineare, ma logaritmica!)
 
-[immagine 4]
+![](imgs/graduatedSymbolLegend.jpg)
 
 https://twitter.com/user/status/1238563186707697664
 

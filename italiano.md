@@ -54,30 +54,13 @@ https://twitter.com/user/status/1238563754922643458
 
 ---
 
-Conoscere il numero totale di casi in una determinata area geografica è utile. Conoscere il numero totale di casi entro una specifica area politica… forse un po’ meno. Se io vivo al confine tra Washington e Oregon (facciamo a Portland), quel confine di stato per me non ha molto significato…
+1 Conoscere il numero totale di casi in una determinata area geografica è utile. Conoscere il numero totale di casi entro una specifica area politica… forse un po’ meno. Se io vivo al confine tra Washington e Oregon (facciamo a Portland), quel confine di stato per me non ha molto significato…
 
 https://twitter.com/user/status/1238564009672085510
 
 ---
 
 In termini di contenimento e misure adottate da uno specifico stato, sembra essere utile sapere quanti casi ci sono in uno stato. Da un punto di vista epidemiologico, però, ai virus non importa granché di confini di stato. Si parla infatti di un concetto chiamato il "problema dell'unità’ d’area modificabile".
-
----
-
-Cosa ci vuole dire questa mappa? Lo scopo di questa mappa sembra voler essere quello di visualizzare (e quindi informare l’utente su) il numero totale dei casi di COVID-19 nel mondo. La domanda e’: ci riesce? La risposta? Si’ e no. Ecco alcune mie critiche su questa mappa:
-
-https://twitter.com/user/status/1238563754922643458
-
----
-
-Conoscere il numero totale di casi in una determinata area geografica e’ utile. Conoscere il numero totale di casi entro una specifica area politica… forse un po’ meno. Se io vivo al confine tra Washington e Oregon (supponiamo a Portland), quel confine di stato per me non ha molto significato…
-
-https://twitter.com/user/status/1238564009672085510
-
----
-
-In termini di contenimento e misure adottate da uno specifico stato, sembra essere utile sapere quanti casi ci sono in uno stato. Da un punto di vista epidemiologico, però, ai virus non importa granché di confini di stato. Si parla infatti di un concetto chiamato il ‘problema dell'unità’ d’area modificabile’.
-
 
 https://twitter.com/user/status/1238564199128879105
 
@@ -95,7 +78,7 @@ https://twitter.com/user/status/1238565387647754241
 
 ---
 
-Quella di cui stiamo parlando è una mappa slippy, il che significa che posso scorrere, ingrandire e rimpicciolire. Una cosa molto utile! Posso quindi zoomare sulla mia città per vedere se ci sono casi riportati. Vivo a New York, dove so che ci sono casi. Ma cosa succede quando vado a zoomare?
+2. Quella di cui stiamo parlando è una mappa slippy, il che significa che posso scorrere, ingrandire e rimpicciolire. Una cosa molto utile! Posso quindi zoomare sulla mia città per vedere se ci sono casi riportati. Vivo a New York, dove so che ci sono casi. Ma cosa succede quando vado a zoomare?
 
 
 ![mappa - zoom in](imgs/mappaZoom.jpg)
@@ -112,10 +95,15 @@ https://twitter.com/user/status/1238566350383169541
 
 ---
 
-Il centroide di un’area è la posizione media di tutti i suoi punti -- non è proprio il “centro” dell’area, ma ci si avvicina. Se stessimo parlando di una mappa di stampa, tutto ciò’ avrebbe molto più senso. È molto più’ semplice capire cosa succede quando facciamo uno zoom out! Ma.. se io non sapessi cosa sono i simboli graduati, se non sapessi come vengono costruite queste mappe, e quale messaggio cercano di trasmettere… assumerei che NYC non abbia nessun caso di COVID-19 e che tutti i casi di New York sono concentrati intorno alla città di Downsville, New York. Del resto è lì che si trova il marker!
+Il centroide di un’area è la posizione media di tutti i suoi punti -- non è proprio il “centro” dell’area, ma ci si avvicina. Se stessimo parlando di una mappa di stampa, tutto ciò’ avrebbe molto più senso. È molto più’ semplice capire cosa succede quando facciamo uno zoom out! Ma..
 
+https://twitter.com/lyzidiamond/status/1238566716034232320
 
-https://twitter.com/user/status/1238566716034232320
+---
+
+se io non sapessi cosa sono i simboli graduati, se non sapessi come vengono costruite queste mappe, e quale messaggio cercano di trasmettere… assumerei che NYC non abbia nessun caso di COVID-19 e che tutti i casi di New York sono concentrati intorno alla città di Downsville, New York. Del resto è lì che si trova il marker!
+
+https://twitter.com/lyzidiamond/status/1238567073732866048
 
 ---
 
@@ -158,7 +146,4 @@ https://twitter.com/user/status/1238569235711959051
 Inoltre, saper leggere una mappa è importante ed è una cosa che dobbiamo continuare ad insegnare e trasmettere, anche nell’era di Google Maps. Le mappe sono strumenti storici di oppressione e spetta a noi essere critici della visualizzazione dei dati di tutti i tipi, piuttosto che accettarla come un dogma.
 
 https://twitter.com/user/status/1238569653770780673
-
----
-
 

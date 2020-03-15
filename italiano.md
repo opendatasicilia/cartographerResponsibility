@@ -6,7 +6,7 @@ https://twitter.com/user/status/1238556851643518981
 Conosciamo tutti le mappe che visualizzano dati aggregati. La più nota tra tutte probabilmente è la mappa coropletica: una mappa che mostra aree geografiche riempite con un colore o un motivo per rappresentare informazioni relative a queste aree.
 Un esempio è questa elettorale della BBC:
 
-![](imgs/coropleta.jpg)
+![mappa coropletica](imgs/coropleta.jpg)
 
 https://twitter.com/user/status/1238556851643518981
 
@@ -17,7 +17,7 @@ https://twitter.com/user/status/1238559830828253186
 Esistono altri due modi comuni di visualizzare dati aggregati: mappe a densità di punti e mappe a simboli graduati. Le mappe a mappe a densità di punti usano un punto per rappresentare un numero di cose che si vogliono mappare, e raggruppano i punti in un’area geografica.
 Ecco un esempio di Bill Rankin (2009):
 
-![](imgs/dotDensity.jpg)
+![mappa a densità di punti](imgs/dotDensity.jpg)
 
 https://twitter.com/user/status/1238560988619816963
 
@@ -27,13 +27,13 @@ https://twitter.com/user/status/1238561449351557122
 
 Esistono poi anche mappe a simbolo graduato (anche note come mappe a simboli proporzionali). Queste mappe usano un simbolo (comunemente un cerchio) per rappresentare un’area geografica, e la dimensione e/o il colore del simbolo ha una qualche relazione con una dimensione dei dati che si vogliono visualizzare. Un esempio: la mappa della diffusione del coronavirus sviluppata dall'istituto Johns Hopkins.
 
-![](imgs/graduatedSymbol.jpg)
+![mappa a simbolo graduato](imgs/graduatedSymbol.jpg)
 
 https://twitter.com/user/status/1238562354239078401
 
 Nel caso specifico di questa mappa, ciascun punto rappresenta uno stato/provincia o Paese (dipende dalla regione geografica, in US si parla di stati), e il raggio del cerchio di ogni punto ci dice quanti casi di coronavirus sono stati confermati in quell’area geografica. (Da notare che la scala non è lineare, ma logaritmica!)
 
-![](imgs/graduatedSymbolLegend.jpg)
+![mappa a simbolo graduato - legenda](imgs/graduatedSymbolLegend.jpg)
 
 https://twitter.com/user/status/1238563186707697664
 
@@ -59,13 +59,13 @@ https://twitter.com/user/status/1238565387647754241
 
 Quella di cui stiamo parlando è una mappa slippy, il che significa che posso scorrere, ingrandire e rimpicciolire. Una cosa molto utile! Posso quindi zoomare sulla mia città per vedere se ci sono casi riportati. Vivo a New York, dove so che ci sono casi. Ma cosa succede quando vado a zoomare?
 
-![](imgs/mappaZoom.jpg)
+![mappa - zoom in](imgs/mappaZoom.jpg)
 
 https://twitter.com/user/status/1238565819916922880
 
 Non trovo niente! E sapete perché? Perché il simbolo graduato che rappresenta il numero di casi nello stato (stato=area geografica) è situato nel centroide geografico dello stato, triangolato approssimativamente tra Binghamton ed Oneonta.
 
-![](imgs/centroide.jpg)
+![mappa - centroide](imgs/centroide.jpg)
 
 https://twitter.com/user/status/1238566350383169541
 

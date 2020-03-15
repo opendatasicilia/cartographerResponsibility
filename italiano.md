@@ -59,13 +59,13 @@ https://twitter.com/user/status/1238565387647754241
 
 Quella di cui stiamo parlando è una mappa slippy, il che significa che posso scorrere, ingrandire e rimpicciolire. Una cosa molto utile! Posso quindi zoomare sulla mia città per vedere se ci sono casi riportati. Vivo a New York, dove so che ci sono casi. Ma cosa succede quando vado a zoomare?
 
-[immagine 5]
+![](imgs/mappaZoom.jpg)
 
 https://twitter.com/user/status/1238565819916922880
 
 Non trovo niente! E sapete perché? Perché il simbolo graduato che rappresenta il numero di casi nello stato (stato=area geografica) è situato nel centroide geografico dello stato, triangolato approssimativamente tra Binghamton ed Oneonta.
 
-[immagine 6]
+![](imgs/centroide.jpg)
 
 https://twitter.com/user/status/1238566350383169541
 

@@ -5,3 +5,8 @@ In questi giorni di "COVID-19" vediamo mappe, grafici e *dashboard* di ogni tipo
 Ci è sembrato una perla e allora abbiamo voluto **tradurlo** in **italiano** (lavori in corso).
 
 Un grazie a [Paola Masuzzo](https://twitter.com/pcmasuzzo) che ha creato la prima versione del testo.
+
+
+# Letture correlate
+
+- [7 best practices for mapping a pandemic](https://blog.mapbox.com/7-best-practices-for-mapping-a-pandemic-9f203576a132)

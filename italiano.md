@@ -1,6 +1,6 @@
 # Uso responsabile ed etico delle mappe
 
-[**Lyzi Diamond**](https://twitter.com/lyzidiamond) - che attualmente è *docs lead* presso heroku, che in precedenza ha lavorato presso glitch, mapbox, maptimehq, codeforamerica e oregongeology - circa 10 giorni fa ha redatto un *thread* twitter molto didattico sull'**uso** **responsabile** ed **etico** delle **mappe**, per evitare di **raccontare una storia sbagliata**.
+[**Lyzi Diamond**](https://twitter.com/lyzidiamond) - che attualmente è *docs lead* presso heroku, che in precedenza ha lavorato presso glitch, mapbox, maptimehq, codeforamerica e oregongeology - circa 10 giorni fa ha redatto un [*thread* twitter](https://twitter.com/lyzidiamond/status/1238556851643518981) molto bello sull'**uso** **responsabile** ed **etico** delle **mappe**, per evitare di **raccontare una storia sbagliata**.
 
 Quando l'ha scritto era tra le pochissime che sottolineasse l'inadeguatezza di molte scelte di rappresentazione cartografica di tante mappe sul COVID19. Lei lo ha fatto a partire proprio da quella che ad oggi è stata più diffusa.
 <br>Da quel giorno altre e altri si sono uniti.
